@@ -1,0 +1,4 @@
+docker run -p 6080:80 dorowu/ubuntu-desktop-lxde-vnc
+splitter = https://drive.google.com/uc?id=1kdq0KWUbqopFz-7zgEG4QtH55Shol0y5&export=download
+
+docker run -d -p 3000:3000 -v /path/to/my/downloads:/downloads jpillora/cloud-torrent
